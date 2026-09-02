@@ -9,9 +9,9 @@
 - Git 本地与远程的协作工作流
 
 ## 项目结构
--├── README.md # 项目说明文档
--├── index.html # 示例网页文件
--└── .gitignore # Git 忽略文件配置（如需）
+- ├── README.md # 项目说明文档
+- ├── index.html # 示例网页文件
+- └── .gitignore # Git 忽略文件配置（如需）
 
 ## 学习记录
 
@@ -34,8 +34,8 @@
 -1. 克隆此仓库：
    ```bash
    git clone https://github.com/你的用户名/仓库名.git
--2.进入目录：
-  cd 仓库名
--3.查看分支或切换分支：
-  git branch
-  git checkout 分支名
+- 2.进入目录：
+   cd 仓库名
+- 3.查看分支或切换分支：
+   git branch
+   git checkout 分支名
